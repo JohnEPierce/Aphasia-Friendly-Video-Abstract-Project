@@ -1,7 +1,7 @@
 # Aphasia-Friendly-Video-Abstract-Project
 ### The aim of this guide is to help researchers to produce a video abstract for people with aphasia. It contains practical support in terms of technical tips, slide/video templates, software and technology suggestions, reflections on video production and examples of aphasia-friendly video abstracts.
 
-[![Watch the video](https://img.youtube.com/vi/E4GBlqsXSPU/maxresdefault.jpg)](https://www.youtube.com/watch?v=E4GBlqsXSPU)
+[![Watch the explanatory video](https://img.youtube.com/vi/E4GBlqsXSPU/maxresdefault.jpg)](https://www.youtube.com/watch?v=E4GBlqsXSPU)
 
 This project was produced by the following researchers from the Centre of Research Excellence in Aphasia Recovery and Rehabilitation, supported by funding from the Tavistock Trust for Aphasia and the Collaboration of Aphasia Trialists:
 Caroline Baker
